@@ -19,6 +19,7 @@ Below are the evaluation metrics, including the **MSE loss function** and the **
 | MSE Loss | Bias | Variance |
 | --- | --- | --- |
 | <img src="/readme_images/WN_mse.png"> | <img src="/readme_images/WN_bias.png"> | <img src="/readme_images/WN_variance.png"> |
+Here are the values of the MSE loss function for all degrees.
 
 | Sample Set | Degree = 1 | Degree = 2 | Degree = 3 | Degree = 4 | Degree = 5 | Degree = 6 | Degree = 7 | Degree = 8 | Degree = 9 | Degree = 10 | Degree = 11 | Degree = 12 | Degree = 13 | Degree = 14 | Degree = 15 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,6 +40,7 @@ Below are the evaluation metrics, including the **MSE loss function** and the **
 | MSE Loss | Bias | Variance |
 | --- | --- | --- |
 | <img src="/readme_images/PN_mse.png"> | <img src="/readme_images/PN_bias.png"> | <img src="/readme_images/PN_variance.png"> |
+Here are the values of the MSE loss function for all degrees.
 
 | Sample Set | Degree = 1 | Degree = 2 | Degree = 3 | Degree = 4 | Degree = 5 | Degree = 6 | Degree = 7 | Degree = 8 | Degree = 9 | Degree = 10 | Degree = 11 | Degree = 12 | Degree = 13 | Degree = 14 | Degree = 15 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
