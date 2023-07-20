@@ -5,7 +5,7 @@ $X = np.arange(-10,10,0.2)$
 
 $Y = 2cos(X)/-\pi+(2x)/(2\pi)+2\times cos(3x)/(-3\pi)$
 
-## White Noise
+## Y + White Noise
 White noise with an impact factor of 0.1 is added to Y.
 ```ruby
 y_whitenoise=y+0.1*np.random.normal(size=len(y))
@@ -27,7 +27,7 @@ Here are the values of the **MSE loss function** for all degrees.
 | Train Set | 0.207 | 0.220 | 0.222 | 0.174 | 0.175 | 0.169 | 0.167 | 0.075 | 0.076 | 0.049 | 0.062 | 0.027 | 0.026 | 0.026 | 0.028 |
 | Test Set | 0.272 | 0.239 | 0.238 | 0.192 | 0.191 | 0.170 | 0.170 | 0.061 | 0.061 | 0.029 | 0.028 | 0.023 | 0.022 | 0.022 | 0.022 |
 
-## Poisson Noise
+## Y + Poisson Noise
 Poisson noise with an impact factor of 0.1 is added to Y.
 ```ruby
 y_poissonnoise=y+0.1*np.random.poisson(lam=2,size=100)
